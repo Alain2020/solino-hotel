@@ -271,6 +271,8 @@ section{
    color:var(--sub-color);
 }
 
+/*----reservation section----*/
+
 .reservation form{
    border: var(--border);
    padding: 2rem;
